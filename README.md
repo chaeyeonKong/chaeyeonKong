@@ -41,6 +41,6 @@
 </div>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=886CE4&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=886CE4&section=footer)
 
 
