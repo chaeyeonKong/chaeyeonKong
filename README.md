@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%~&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#051C3D&height=300&section=header&text=Hello%~&fontSize=90)
 
 ![header](https://capsule-render.vercel.app/api?type=[slice](https://github.com/Gongchaeyeon/Gongchaeyeon))
 
