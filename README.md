@@ -1,5 +1,5 @@
 
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=🙋🏻Chaeyeon’s%20Git&fontSize=70&color=0:4BF7B1,100:b678c4&stroke=#000000)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=🙋🏻Chaeyeon’s%20Git&fontSize=70&color=0:F5F5F5,100:886CE4&stroke=#000000)
 
 
 <div align="center">
@@ -29,8 +29,18 @@
 
   <br></br>
   <strong><h1> 📁 About Me </h1> </strong>
-  velog
-  https://velog.io/@dnjftjd53/posts
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchaeyeon&langs_count=10&layout=compact&theme=dark)](https://github.com/Gongchaeyeon/Gongchaeyeon)﻿
+<a href="https://velog.io/@dnjftjd53/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0vel)](https://solved.ac/0vel)
+  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gongchaeyeon&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchaeyeon&layout=compact)
+
 </div>
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=886CE4&section=footer)
+
+
