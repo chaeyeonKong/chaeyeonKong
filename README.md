@@ -13,9 +13,9 @@
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/></a>
-
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>
+  
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a>
@@ -28,19 +28,19 @@
   <img src="https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white"/></a>
 
   <br></br>
-  <strong><h1> 📁 About Me </h1> </strong>
+  <strong><h1> 💬 About Me </h1> </strong>
 
 <a href="https://velog.io/@dnjftjd53/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0vel)](https://solved.ac/0vel)
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gongchaeyeon&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gongchaeyeon&layout=compact)
+[![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gongchaeyeon&hide_border=true&show_icons=true&theme=transparent)](https://github.com/Gongchaeyeon/github-readme-stats) | [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gongchaeyeon&layout=compact&hide_border=true&theme=graywhite)](https://github.com/Gongchaeyeon) |
+| ------------- | ------------- |
 
 </div>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=886CE4&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=886CE4&section=footer)
 
 
