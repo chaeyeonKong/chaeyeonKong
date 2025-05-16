@@ -2,15 +2,43 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=🙋🏻Chaeyeon’s%20Git&fontSize=70&color=0:F5F5F5,100:886CE4&stroke=#000000)
 
 
-<div align="center">
+##### 🏢 Career
 
-  <strong> <h1>📁 Teck Stack</h1></strong>
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | ------- | 
+| **2025.02** | **국민대학교 소프트웨어전공 졸업** | |
+| **2025.09 - 2025.12** | **㈜엔투솔루션 백엔드 인턴** | **Springboot, jsp, Mybatis 등 활용한 백엔드 개발** |
+| **2024.03 - 2024.06** | **컴퓨터 프로그래밍 교양 조교** | **타과생을 대상으로 컴퓨터 교양 조교 활동 및 Q&A**| 
+| **2024.03 - 2024.08** | **IT's Time 동아리** | **Ticle 서비스 백엔드 개발 담당<br>Gemini api를 활용하여 생성형 퀴즈 제작**|
+| **2022.11 - 2023.11** | **Callback 학생회** | **집행부부원 - 학부행사진행** | 
+| **2022.03 -2022.08** | **Veritross 동아리** | **SQL에 대한 쿼리 효율성 탐구 및 이론 학습** |
+| **2022.02 - 2023.08** | **KOSS 동아리** |**OpenCV를 활용한 영상처리 알고리즘 제작, <br>Flutter를 활용한 프론트엔드 개발**|
+| **2020.03** | **국민대학교 소프트웨어전공 입학** | |
+
+##### 🏆 Project  
+
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | -------|
+| **2024.12 - 2024.12** | **한양여대 프로젝트** | **(주)N2솔루션에서 한양여대 관리 페이지 전년도 데이터 불러오기 기능 구현** |
+| **2024.10 - 2024.11** | **환경공단 프로젝트** | **(주)N2솔루션에서 폐기물 처리&통계 페이지 개발** |
+| **2024.06 - 2024.06** | **Our-Eat** | **자취생을 위한 식재료 공구 서비스 App 프론트엔드 개발** |
+| **2024.03 - 2024.06** | **Ticle** | **개발자를 위한 아티클 마이닝 서비스 Web 백엔드 개발** |
+| **2024.02 - 2024.06** | **커리어 한 잔** | **개발자를 위한 대면 커피챗 App 프론트엔드 개발** |
+| **2023.03 - 2023.06** | **laundry 24** | **python과 pyqt를 이용한 oop기반 무인세탁소 키오스크 제작** |
+| **2022.05 - 2022.12** | **Firstick-APP** | **OpenCV를 활용한 젓가락질 교정 프로젝트에서 flutter를 활용한 프론트엔드 개발** |
+
+##### 🏆 Awards
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | -------|
+| **2022.03 - 2022.12** | **제20회 임베디드 SW 경진대회** | **지능형휴머노이드부문 출전(우수상 수상)** |
+| **2018.12 - 2019.04** | **경남지방기능경기대회** | **정보기술부문 출전(은메달 수상)** |
+
+##### 🧩 Skill  
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
   
-
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/></a>
@@ -27,20 +55,15 @@
 
   <img src="https://img.shields.io/badge/selenium-43B02A?style=flat&logo=selenium&logoColor=white"/></a>
 
-  <br></br>
-  <strong><h1> 💬 About Me </h1> </strong>
+##### 📜 Certificate
+정보처리기사 / 정보기기운용기능사 / SQLD / 컴퓨터활용능력 2급 / 워드프로세서 / Opic IM2
+
+##### 💬 About Me
 
 <a href="https://velog.io/@dnjftjd53/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0vel)](https://solved.ac/0vel)
-  
-
-[![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gongchaeyeon&hide_border=true&show_icons=true&theme=transparent)](https://github.com/Gongchaeyeon/github-readme-stats) | [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gongchaeyeon&layout=compact&hide_border=true&theme=graywhite)](https://github.com/Gongchaeyeon) |
-| ------------- | ------------- |
-
-</div>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=4722BC&section=footer)
 
 
