@@ -24,7 +24,7 @@
 | **2026.01 - 2026.02** | **🔗[SantaLog](https://github.com/chaeyeonKong/santaLog)** | **블로그 Web 백엔드 개발 & Infra(Docker, Kubernetes)** |
 | **2025.04 - 2025.07** | **🔗[맞땅](https://github.com/chaeyeonKong/matddang-be)** | **공공데이터 기반 맞춤형 농지 탐색 서비스 Web 백엔드 개발** |
 | **2024.12 - 2024.12** | 한양여대 프로젝트 | **(주)엔투솔루션에서 한양여대 관리 페이지 전년도 데이터 불러오기 기능 개발** |
-| **2024.10 - 2024.11** | 환경공단 프로젝트 | **(주)엔투솔루션에서 폐기물 처리&통계 페이지 개발** |
+| **2024.10 - 2024.11** | **🔗[환경공단 프로젝트](https://www.re.or.kr/info/listRecyclableResourcesPageNew.do)** | **(주)엔투솔루션 인턴으로 폐기물 처리·통계 페이지 개발** |
 | **2024.06 - 2024.06** | **🔗[Our-Eat](https://github.com/chaeyeonKong/Our-Eat)** | **자취생을 위한 식재료 공구 서비스 App 프론트엔드 개발** |
 | **2024.03 - 2024.06** | **🔗[Ticle](https://github.com/chaeyeonKong/Ticle-server)** | **개발자를 위한 아티클 마이닝 서비스 Web 백엔드 개발** |
 | **2024.02 - 2024.06** | **🔗[커리어 한 잔](https://github.com/chaeyeonKong/Coffee_cup)** | **개발자를 위한 대면 커피챗 App 프론트엔드 개발** |
