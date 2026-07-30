@@ -22,6 +22,8 @@
 
 | PERIOD | TITLE | SUBJECT |
 |--------|-------|---------|
+| **2026.05 - 2026.06** | **🔗[H-Insight-AI](https://github.com/HD-Team4/H-Insight-AI)** | **홈쇼핑 판매 분석·방송 전략 추천 플랫폼<br>Elasticsearch 상품 검색·자동완성(Nori, BM25) 및 RAG 챗봇 파이프라인 개발<br>Redis 기반 LLM 시맨틱 캐싱, Aho-Corasick 비속어 필터, MCP(Notion·Gmail) 리포트 자동화** |
+| **2026.04 - 2026.04** | **🔗[HD_DutyFlow](https://github.com/HD-Team1/HD_DutyFlow)** | **현대면세점 공항 픽업 예약 시스템 Web 백엔드 개발(Java, Oracle PL/SQL)** |
 | **2026.01 - 2026.02** | **🔗[SantaLog](https://github.com/chaeyeonKong/santaLog)** | **블로그 Web 백엔드 개발 & Infra(Docker, Kubernetes)** |
 | **2025.04 - 2025.07** | **🔗[맞땅](https://github.com/chaeyeonKong/matddang-be)** | **공공데이터 기반 맞춤형 농지 탐색 서비스 Web 백엔드 개발** |
 | **2024.12 - 2024.12** | 한양여대 프로젝트 | **(주)엔투솔루션에서 한양여대 관리 페이지 전년도 데이터 불러오기 기능 개발** |
@@ -66,18 +68,21 @@
 **Backend**  
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-000000?style=flat"/> <img src="https://img.shields.io/badge/JSP-007396?style=flat"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
+**Search & Messaging**  
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
+
 **Infra & DevOps**  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white"/> 
 
 **Database**  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
 
 **Frontend & App**  
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 
 **Others**  
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-
 
 ### 💬 About Me
 
